@@ -37,4 +37,4 @@ chip_ip_commissioning = true
 chip_config_network_layer_ble = true
 chip_use_clusters_for_ip_commissioning = true
 
-custom_toolchain = "//third_party/connectedhomeip/config/ambd/toolchain:ambd"
+custom_toolchain = "//toolchain:ambd"
